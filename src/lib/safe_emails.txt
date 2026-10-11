@@ -1,0 +1,84 @@
+########## EMAIL 1 ##########
+From: "Priya Sharma" <priya.sharma@acme-corp.com>
+To: team@acme-corp.com
+Subject: Notes from today's sync
+
+Hi team,
+
+Thanks for joining today's sync. Quick recap:
+- Design review moved to Thursday at 11
+- Please send your timesheets by Friday
+
+Best,
+Priya
+
+
+########## EMAIL 2 ##########
+From: "GitHub" <noreply@github.com>
+To: you@example.com
+Subject: [sam/repo] New pull request #12
+
+Hi Sam,
+
+A new pull request was opened in your repository.
+
+View it here: https://github.com/sam/repo/pull/12
+
+You are receiving this because you are watching this repository.
+
+
+########## EMAIL 3 ##########
+From: "Amazon.com" <shipment-tracking@amazon.com>
+To: you@example.com
+Subject: Your package has shipped
+
+Hello Sam,
+
+Your order has shipped and is on its way. You can track the package here:
+https://www.amazon.com/progress-tracker/package
+
+Thanks for shopping with us.
+
+
+########## EMAIL 4 ##########
+From: "Weekly Reads" <hello@weeklyreads.org>
+To: you@example.com
+Subject: This week's top articles
+
+Hi there,
+
+Here are this week's picks:
+1. How cities are planting more trees
+2. A beginner's guide to sourdough
+
+Read more: https://weeklyreads.org/this-week
+
+Happy reading!
+
+
+########## EMAIL 5 ##########
+From: "Rahul Mehta" <rahul.mehta@acme-corp.com>
+To: you@example.com
+Subject: Lunch on Friday?
+
+Hey,
+
+Are you free for lunch on Friday? Thinking of trying the new place near the office.
+
+Let me know!
+Rahul
+
+
+########## EMAIL 6 ##########
+From: "City Library" <notices@citylibrary.org>
+To: you@example.com
+Subject: Your book is ready for pickup
+
+Hello,
+
+The book you reserved is ready for pickup at the front desk. It will be held for 7 days.
+
+Library hours: Mon-Sat, 9am to 6pm.
+
+Thank you,
+City Library

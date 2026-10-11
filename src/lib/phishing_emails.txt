@@ -1,0 +1,85 @@
+########## EMAIL 1 ##########
+From: "NovaBank Security" <alert@novabank-verify.xyz>
+To: you@example.com
+Subject: URGENT: Your account has been locked
+
+Dear customer,
+
+We detected unusual activity on your account. For your security, your account has been locked.
+
+You must verify your account within 24 hours or it will be permanently disabled.
+
+Verify now: http://novabank-verify.xyz/login.php?token=9x8d7k2
+
+NovaBank Security Team
+
+
+########## EMAIL 2 ##########
+From: "PayPal Support" <service@paypa1-help.top>
+To: you@example.com
+Subject: Action required: confirm your payment details
+
+Dear user,
+
+We could not process your last payment. Please update your payment information immediately to avoid suspension.
+
+Update here: http://203.0.113.77/paypal/login.php
+
+Thank you,
+PayPal Support
+
+
+########## EMAIL 3 ##########
+From: "Global Lottery Board" <winner@claim-prize.buzz>
+To: you@example.com
+Subject: Congratulations! You have won $1,000,000
+
+Dear customer,
+
+You have won our international lottery! To claim your prize, reply with your bank details so we can send the wire transfer.
+
+Claim here: https://bit.ly/3xYzAbC
+
+Congratulations again!
+
+
+########## EMAIL 4 ##########
+From: "IT Helpdesk" <helpdesk.it.support@gmail.com>
+To: you@example.com
+Subject: Your mailbox is almost full - verify your password
+
+Dear user,
+
+Your mailbox has exceeded its storage limit. Confirm your password within 24 hours to avoid losing access to your email.
+
+Login to confirm: http://mail-storage-verify.top/secure/login.html
+
+IT Support Team
+
+
+########## EMAIL 5 ##########
+From: "CEO Office Admin" <ceo.office.admin@gmail.com>
+Reply-To: payments@secure-mail-transfer.xyz
+To: finance@example.com
+Subject: Urgent wire transfer needed
+
+Hi,
+
+I need you to process a wire transfer right away. Confirm your identity and reply with the bank details. Do not call me, I am in a meeting.
+
+Regards,
+CEO
+
+
+########## EMAIL 6 ##########
+From: "Amazon Order Dept" <orders@amaz0n-billing.click>
+To: you@example.com
+Subject: Your order cannot be shipped - final notice!!!
+
+Dear customer,
+
+Your payment method was declined. Update your payment information now or your order will be cancelled and your account suspended.
+
+Fix payment: http://amaz0n-billing.click/update?session=kd83js9a
+
+Amazon Customer Service
